@@ -1,6 +1,6 @@
 # Freelance Price Calculator
 
-![Freelance Price Calculator](https://your-image-url-here.com/fpc-screenshot.png)
+![Freelance Price Calculator](https://i.imgur.com/1zeZewW.png)
 
 A powerful and intuitive tool for freelancers to calculate project prices and convert currencies, built with Next.js and Bun.
 
